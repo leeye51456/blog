@@ -1,0 +1,2 @@
+(self.webpackChunkblog=self.webpackChunkblog||[]).push([[883],{9616:function(e,t,l){"use strict";l.r(t);var n=l(7294),u=l(9199),c=l(3751);t.default=function(){return n.createElement(u.Z,null,n.createElement(c.Z,{title:"404 Not found"}),n.createElement("h1",null,"404 Not Found"),n.createElement("p",null,"존재하지 않는 페이지입니다."))}}}]);
+//# sourceMappingURL=component---src-pages-404-js-a4e115643b4eb04dd277.js.map
